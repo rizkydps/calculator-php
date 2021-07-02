@@ -1,0 +1,38 @@
+.kalkulator {
+    width: 300px;
+    background-color: silver;
+    margin: 100px auto;
+    padding: 7px;
+    border-radius: 5px;
+
+    .container-button {
+        display: flex;
+        flex-wrap: wrap;
+
+        .button {
+            display: flex;
+            width: 25%;
+            font-size: 20px;
+            background-color: rgb(197, 194, 194);
+            font-weight: bold;
+            height: 70px;
+            border: 1px solid rgb(27, 26, 26);
+            box-sizing: border-box;
+            justify-content: center;
+            align-items: center;
+            border-top: none;
+            border-left: none;
+        }
+    }
+}
+
+#layar {
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid rgb(116, 109, 109);
+    font-size: 25px;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    padding: 7px 5px;
+    text-align: right;
+}

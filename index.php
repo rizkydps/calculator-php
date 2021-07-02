@@ -5,9 +5,7 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<style>
-
-</style>
+<link rel="stylesheet" href="style/main.css">
 
 <head>
     <meta charset="UTF-8">
@@ -22,7 +20,7 @@
         <div class="container-button">
             <span class="button">C</span>
             <span class="button">
-                << /span>
+                < </span>
                     <span class="button">.</span>
                     <span class="button">/</span>
                     <span class="button">7</span>
