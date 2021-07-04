@@ -37,6 +37,7 @@
                     <span class="button">-</span>
                     <span class="button">0</span>
                     <span class="button">=</span>
+                <span class="button">==</span>
         </div>
     </div>
 </body>
